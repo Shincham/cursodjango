@@ -58,8 +58,11 @@ docs/_build/
 # PyBuilder
 target/
 
-#Ipython Notebook
+# Ipython Notebook
 .ipynb_checkpoints
 db.sqlite3
+
+# PyCharm
+.idea/workspace.xml
 
 local_settings.py
